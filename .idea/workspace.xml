@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1f5de6d-8bc6-43e9-ac6c-b8bcce77d59d" name="Changes" comment="marks">
-      <change afterPath="$PROJECT_DIR$/test/test_square.py" afterDir="false" />
+    <list default="true" id="b1f5de6d-8bc6-43e9-ac6c-b8bcce77d59d" name="Changes" comment="marks with parametrize">
+      <change afterPath="$PROJECT_DIR$/source/service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_service.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/shapes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../../Python311/Lib/unittest/mock.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -60,6 +63,7 @@
     "Python tests.Python tests in test_functions.py.executor": "Run",
     "Python tests.Python tests in test_my_functions.py.executor": "Run",
     "Python tests.Python tests in test_rectangle.py.executor": "Run",
+    "Python tests.Python tests in test_service.py.executor": "Run",
     "Python tests.Python tests in test_square.py.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -117,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705333356804</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="marks with parametrize">
+      <option name="closed" value="true" />
+      <created>1705352202945</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1705352202945</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +147,7 @@
     <MESSAGE value="basic tests" />
     <MESSAGE value="fixtures" />
     <MESSAGE value="marks" />
-    <option name="LAST_COMMIT_MESSAGE" value="marks" />
+    <MESSAGE value="marks with parametrize" />
+    <option name="LAST_COMMIT_MESSAGE" value="marks with parametrize" />
   </component>
 </project>
