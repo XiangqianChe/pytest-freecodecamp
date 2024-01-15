@@ -1,4 +1,3 @@
-import pytest
 import source.shapes as shapes
 import math
 
@@ -22,3 +21,6 @@ class TestCircle:
         result = self.circle.perimeter()
         expected = 2 * math.pi * self.circle.radius
         assert result == expected
+
+    def test_not_equal_area_with_rectangle(self, rectangle):
+        assert self.circle.area() != rectangle.area()

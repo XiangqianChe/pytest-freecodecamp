@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1f5de6d-8bc6-43e9-ac6c-b8bcce77d59d" name="Changes" comment="basic tests">
-      <change afterPath="$PROJECT_DIR$/source/shapes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_rectangle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/shapes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_circle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +60,7 @@
     "Python tests.Python tests for test_my_functions.test_divide.executor": "Run",
     "Python tests.Python tests in test_circle.py.executor": "Run",
     "Python tests.Python tests in test_my_functions.py.executor": "Run",
+    "Python tests.Python tests in test_rectangle.py.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -90,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705291006459</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="basic tests">
+      <option name="closed" value="true" />
+      <created>1705292397044</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705292397044</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
