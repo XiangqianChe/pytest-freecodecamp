@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1f5de6d-8bc6-43e9-ac6c-b8bcce77d59d" name="Changes" comment="basic tests">
-      <change afterPath="$PROJECT_DIR$/test/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_rectangle.py" afterDir="false" />
+    <list default="true" id="b1f5de6d-8bc6-43e9-ac6c-b8bcce77d59d" name="Changes" comment="fixtures">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/shapes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/my_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/source/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_my_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +57,7 @@
     "Python tests.Python tests for test_my_functions.test_add.executor": "Run",
     "Python tests.Python tests for test_my_functions.test_divide.executor": "Run",
     "Python tests.Python tests in test_circle.py.executor": "Run",
+    "Python tests.Python tests in test_functions.py.executor": "Run",
     "Python tests.Python tests in test_my_functions.py.executor": "Run",
     "Python tests.Python tests in test_rectangle.py.executor": "Run",
     "Python.main.executor": "Run",
@@ -101,11 +100,31 @@
       <option name="project" value="LOCAL" />
       <updated>1705292397044</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fixtures">
+      <option name="closed" value="true" />
+      <created>1705331792397</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705331792397</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basic tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic tests" />
+    <MESSAGE value="fixtures" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixtures" />
   </component>
 </project>
